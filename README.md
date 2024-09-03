@@ -1,2 +1,3 @@
 # PL-Labs-HW
-Programming Languages 1 Assignments - Year I Sem I
+
+All assignments that were given in the programming languages course (Java)
